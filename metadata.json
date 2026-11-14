@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris // 3D WebGL Portfolio Studio",
+  "description": "Futuristic interactive 3D WebGL portfolio builder and showcase with custom GLSL shaders, virtual exhibition gallery, and live personal details configurator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
